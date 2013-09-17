@@ -1,3 +1,8 @@
 <?php
 
-echo "hello";
+sayHello();
+
+function sayHello()
+{
+  echo "hello";
+}
